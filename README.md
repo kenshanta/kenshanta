@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning chatGPT customization
-- 👯 I’m looking to collaborate on any project
+- 🔭 I’m currently working on my portfolio website & solving problems on leetCode
+- 🌱 I’m currently learning turbo-3.5 chatGPT customizations
 - 🤔 I’m looking for help with guidance
-- 💬 Ask me about anything
 - 📫 How to reach me: IG - @kovlekjian
+- 😳 Weakness: lack of open source contribution
 - ⚡ Fun fact: drummer when not coding, climbing/running when not drumming
