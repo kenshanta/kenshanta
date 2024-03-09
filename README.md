@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - 😳 Weakness: I know that I know nothing
 - ⚡ Fun fact: Drummer when not coding, bouldering/running when not drumming
 
-## How I Perform :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kenshanta&theme=great-gatsby)](https://git.io/streak-stats)
-
 ## 🧰 Languages and Tools : 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -35,6 +32,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 </div>
+
+## How I Perform :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kenshanta&theme=great-gatsby)](https://git.io/streak-stats)
+
 
 ### a nice gimmick that kind works :
 ![](https://komarev.com/ghpvc/?username=kenshanta&color=orange&style=for-the-badge)
