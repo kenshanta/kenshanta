@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my [portfolio website](https://kovlekjian.com) & solving problems on [LeetCode](https://leetcode.com/kenshanta)
 - 🌱 I’m currently learning Next.JS and Svelte
 - 📫 How to reach me: kovlekjian@gmail.com
-- 😳 Weakness: I know that I know nothing
+- 😳 Weakness: I know that I know nothing *Socrates*
 - ⚡ Fun fact: Drummer when not coding, bouldering/running when not drumming
 
 ## 🧰 Languages and Tools : 
