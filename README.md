@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI3d2pwYzNyOTU2bDc0c2trNWZ1aHIwdmdocGU2b2hyY3QwYTdzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOFSIrIC6TdhgTMXZc/giphy.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="60%"></img>
 </div>
 
-## Hi there 👋
+## 👋 Hi there
 
 <!--
 **kenshanta/kenshanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 </div>
 
-## How I Perform :
+## ❓How I Perform :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kenshanta&theme=great-gatsby)](https://git.io/streak-stats)
 
 
-### a nice gimmick that kind works :
+### A nice gimmick that kind works :
 ![](https://komarev.com/ghpvc/?username=kenshanta&color=orange&style=for-the-badge)
 
 
