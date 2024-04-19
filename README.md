@@ -33,11 +33,11 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 </div>
 
-## ❓How I Perform :
+## ❓ How I Perform :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kenshanta&theme=great-gatsby)](https://git.io/streak-stats)
 
 
 ### A nice gimmick that kind works :
 ![](https://komarev.com/ghpvc/?username=kenshanta&color=orange&style=for-the-badge)
-
-
+<p>This ReadMe's Layout Was Inspired By <b>The Man</b>, <i>The Myth</i>, The Legend that is </p> <br/>
+<a href="https://github.com/michelbeyrouty"> Michel Beyrouty™</a>
