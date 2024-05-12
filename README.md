@@ -1,6 +1,6 @@
 <div>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Franklin&color=fe7d37&weight=400&size=17&background=7DCAFF00&duration=1299&multiline=true&center=false&repeat=false&height=135&width=735&lines=Life+is+like+going+the+wrong+way+on+a+moving+sidewalk,;walk...+and+you+stay+put.;In+order+to+get+ahead;You+have+to+HUSTLE!+🏃🏽‍➡️+🏃🏽‍➡️+🏃🏽‍➡️+🏃🏽‍➡️;;-+Casey+Niestat+-)](https://youtu.be/L9VBpbnXhWk?si=8ObrE3ORQ5O7GXPs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Franklin&color=58a6ff&weight=400&size=17&background=7DCAFF00&duration=1299&multiline=true&center=false&repeat=false&height=135&width=735&lines=Life+is+like+going+the+wrong+way+on+a+moving+sidewalk,;walk...+and+you+stay+put.;In+order+to+get+ahead;You+have+to+HUSTLE!+🏃🏽‍➡️+🏃🏽‍➡️+🏃🏽‍➡️;;-+Casey+Niestat+-)](https://youtu.be/L9VBpbnXhWk?si=8ObrE3ORQ5O7GXPs)
 
 </div>
 
@@ -53,7 +53,19 @@
 3. 💪 Opened PR [#1108](https://github.com/kenshanta/contactz/pull/1108) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
 4. 🗣 Commented on [#295](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2106137852) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
    <!--END_SECTION:activity-->
-     <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
+   </details>
+
+<details> 
+  <summary><h2>💄 Projects That Would Look Sexier With Contributions:</h2></summary>
+    * <i>Check the TODO section in the README.md for the selected project(s)</i>
+    <h3>
+    <a href="https://github.com/kenshanta/contactz">
+     👤 Contactz
+    </a>
+        </h3>
+      <li>
+          A startup specializing in providing robust - dashboard like - contacts list. Project Built with ReactJs & Bootstrap
+      </li> 
    </details>
 
 ### A nice gimmick that kinda works:
