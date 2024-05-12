@@ -59,7 +59,7 @@
   <summary><h2>💄 Projects That Would Look Sexier With Contributions:</h2></summary>
     * <i>Check the TODO section in the README.md for the selected project(s)</i>
     <h3>
-    <a href="https://github.com/kenshanta/contactz">
+    <a href="https://github.com/kenshanta/contactz?tab=readme-ov-file#-todo">
      👤 Contactz
     </a>
         </h3>
