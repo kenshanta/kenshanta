@@ -1,7 +1,11 @@
+<div>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Franklin&color=fe7d37&weight=400&size=17&background=7DCAFF00&duration=1299&multiline=true&center=false&repeat=false&height=135&width=735&lines=Life+is+like+going+the+wrong+way+on+a+moving+sidewalk,;walk...+and+you+stay+put.;In+order+to+get+ahead;You+have+to+HUSTLE!+🏃🏽‍➡️+🏃🏽‍➡️+🏃🏽‍➡️+🏃🏽‍➡️;;-+Casey+Niestat+-)](https://youtu.be/L9VBpbnXhWk?si=8ObrE3ORQ5O7GXPs)
 
+</div>
 
-
-## 🧰  Kenshata's Languages and Tools: 
+<details>
+<summary><h2>🧰 Tech Stack:</h2></summary>
 <div>
     <h4>Primary:</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
@@ -22,12 +26,37 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>
 </div>
+</details>
+<details> 
+  <summary><h2>📊 Some Statistics:</h2></summary>
+  <h3>🥵 | | 🥶 Checkout The Temperature</h3>
+  <p>
+    <a href="https://github.com/kenshanta/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kenshanta's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kenshanta&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
 
-## ❓ Performance:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kenshanta&theme=great-gatsby)](https://git.io/streak-stats)
+  <h3>💻 GitHub Profile Statistics</h3>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kenshanta's Github Statstics" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kenshanta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kenshanta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kenshanta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kenshanta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kenshanta&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#296](https://github.com/kenshanta/miniature-launchpad) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+2. 🗣 Commented on [#1108](https://github.com/kenshanta/menu-react/issues/1108) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+3. 💪 Opened PR [#1108](https://github.com/kenshanta/contactz/pull/1108) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
+5. 🗣 Commented on [#295](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2106137852) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+<!--END_SECTION:activity-->
+  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
+</details>
 
 ### A nice gimmick that kinda works:
 ![](https://komarev.com/ghpvc/?username=kenshanta&color=orange&style=for-the-badge)
-#### <p>This ReadMe's Layout Was Inspired By <b>The Man</b>, <i>The Myth</i>, The Legend that is <a href="https://github.com/michelbeyrouty"> Michel Beyrouty™</a> </p>
-
