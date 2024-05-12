@@ -38,25 +38,24 @@
   </p>
 
   <h3>💻 GitHub Profile Statistics</h3>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kenshanta's Github Statstics" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kenshanta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kenshanta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kenshanta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kenshanta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kenshanta&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kenshanta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kenshanta&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#296](https://github.com/kenshanta/miniature-launchpad) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
 2. 🗣 Commented on [#1108](https://github.com/kenshanta/menu-react/issues/1108) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
 3. 💪 Opened PR [#1108](https://github.com/kenshanta/contactz/pull/1108) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
-5. 🗣 Commented on [#295](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2106137852) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-<!--END_SECTION:activity-->
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-</details>
+4. 🗣 Commented on [#295](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2106137852) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+   <!--END_SECTION:activity-->
+     <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
+   </details>
 
 ### A nice gimmick that kinda works:
+
 ![](https://komarev.com/ghpvc/?username=kenshanta&color=orange&style=for-the-badge)
