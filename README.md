@@ -48,10 +48,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#296](https://github.com/kenshanta/miniature-launchpad) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
-2. 🗣 Commented on [#1108](https://github.com/kenshanta/menu-react/issues/1108) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-3. 💪 Opened PR [#1108](https://github.com/kenshanta/contactz/pull/1108) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
-4. 🗣 Commented on [#295](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2106137852) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ❗ Opened issue [#253](https://github.com/sudheerj/javascript-interview-questions/issues/253) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+2. ❌ Closed PR [#5](https://github.com/kenshanta/dynamic-react-graph-app/pull/5) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+3. 🎉 Merged PR [#13](https://github.com/kenshanta/miniature-launchpad/pull/13) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+4. ❗ Opened issue [#84267](https://github.com/firstcontributions/first-contributions/issues/84267) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
    <!--END_SECTION:activity-->
    </details>
 
