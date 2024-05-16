@@ -48,10 +48,10 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#253](https://github.com/sudheerj/javascript-interview-questions/issues/253) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
-2. ❌ Closed PR [#5](https://github.com/kenshanta/dynamic-react-graph-app/pull/5) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-3. 🎉 Merged PR [#13](https://github.com/kenshanta/miniature-launchpad/pull/13) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
-4. ❗ Opened issue [#84267](https://github.com/firstcontributions/first-contributions/issues/84267) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ❗ Opened issue [#254](https://github.com/sudheerj/javascript-interview-questions/issues/254) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+2. ❗ Opened issue [#253](https://github.com/sudheerj/javascript-interview-questions/issues/253) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+3. ❌ Closed PR [#5](https://github.com/kenshanta/dynamic-react-graph-app/pull/5) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+4. 🎉 Merged PR [#13](https://github.com/kenshanta/miniature-launchpad/pull/13) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
    <!--END_SECTION:activity-->
    </details>
 
