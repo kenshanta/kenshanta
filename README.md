@@ -48,10 +48,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#83449](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2117730725) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. ❗ Opened issue [#254](https://github.com/sudheerj/javascript-interview-questions/issues/254) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
-3. ❗ Opened issue [#253](https://github.com/sudheerj/javascript-interview-questions/issues/253) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
-4. ❌ Closed PR [#5](https://github.com/kenshanta/dynamic-react-graph-app/pull/5) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+1. 🗣 Commented on [#83449](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2118054220) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🗣 Commented on [#83449](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2117730725) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. ❗ Opened issue [#254](https://github.com/sudheerj/javascript-interview-questions/issues/254) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+4. ❗ Opened issue [#253](https://github.com/sudheerj/javascript-interview-questions/issues/253) in [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
    <!--END_SECTION:activity-->
    </details>
 
