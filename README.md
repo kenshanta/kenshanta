@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#671](https://github.com/electron/electron-quick-start/issues/671#issuecomment-2134159762) in [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
-2. 🗣 Commented on [#42289](https://github.com/electron/electron/issues/42289#issuecomment-2134154424) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#83449](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2126374067) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 🗣 Commented on [#83449](https://github.com/firstcontributions/first-contributions/issues/83449#issuecomment-2118054220) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 🗣 Commented on [#323](https://github.com/LeCoupa/awesome-cheatsheets/issues/323#issuecomment-2156006096) in [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+2. ❗ Opened issue [#12798](https://github.com/zed-industries/zed/issues/12798) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. 🗣 Commented on [#671](https://github.com/electron/electron-quick-start/issues/671#issuecomment-2134159762) in [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+4. 🗣 Commented on [#42289](https://github.com/electron/electron/issues/42289#issuecomment-2134154424) in [electron/electron](https://github.com/electron/electron)
    <!--END_SECTION:activity-->
    </details>
 
