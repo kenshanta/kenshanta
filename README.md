@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#12798](https://github.com/zed-industries/zed/issues/12798#issuecomment-2156656941) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🗣 Commented on [#323](https://github.com/LeCoupa/awesome-cheatsheets/issues/323#issuecomment-2156006096) in [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-3. ❗ Opened issue [#12798](https://github.com/zed-industries/zed/issues/12798) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. 🗣 Commented on [#671](https://github.com/electron/electron-quick-start/issues/671#issuecomment-2134159762) in [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+1. ❗ Opened issue [#85152](https://github.com/firstcontributions/first-contributions/issues/85152) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🗣 Commented on [#12798](https://github.com/zed-industries/zed/issues/12798#issuecomment-2156656941) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. 🗣 Commented on [#323](https://github.com/LeCoupa/awesome-cheatsheets/issues/323#issuecomment-2156006096) in [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+4. ❗ Opened issue [#12798](https://github.com/zed-industries/zed/issues/12798) in [zed-industries/zed](https://github.com/zed-industries/zed)
    <!--END_SECTION:activity-->
    </details>
 
