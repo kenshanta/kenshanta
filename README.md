@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#85152](https://github.com/firstcontributions/first-contributions/issues/85152) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 🗣 Commented on [#12798](https://github.com/zed-industries/zed/issues/12798#issuecomment-2156656941) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 🗣 Commented on [#323](https://github.com/LeCoupa/awesome-cheatsheets/issues/323#issuecomment-2156006096) in [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-4. ❗ Opened issue [#12798](https://github.com/zed-industries/zed/issues/12798) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🎉 Merged PR [#4](https://github.com/kenshanta/sh-url-t/pull/4) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. 🎉 Merged PR [#3](https://github.com/kenshanta/sh-url-t/pull/3) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 🎉 Merged PR [#2](https://github.com/kenshanta/sh-url-t/pull/2) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. ❗ Opened issue [#85152](https://github.com/firstcontributions/first-contributions/issues/85152) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
    <!--END_SECTION:activity-->
    </details>
 
