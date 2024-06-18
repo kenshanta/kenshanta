@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/kenshanta/sleek-company-portfolio/pull/1) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. ❌ Closed PR [#5](https://github.com/kenshanta/sh-url-t/pull/5) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. 💪 Opened PR [#5](https://github.com/kenshanta/sh-url-t/pull/5) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. 🎉 Merged PR [#4](https://github.com/kenshanta/sh-url-t/pull/4) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. 🎉 Merged PR [#3](https://github.com/kenshanta/sleek-company-portfolio/pull/3) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+2. 🎉 Merged PR [#2](https://github.com/kenshanta/sleek-company-portfolio/pull/2) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+3. 🎉 Merged PR [#1](https://github.com/kenshanta/sleek-company-portfolio/pull/1) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. ❌ Closed PR [#5](https://github.com/kenshanta/sh-url-t/pull/5) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
    <!--END_SECTION:activity-->
    </details>
 
