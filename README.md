@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/kenshanta/sh-url-t/pull/12) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. 💪 Opened PR [#12](https://github.com/kenshanta/sh-url-t/pull/12) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. 🎉 Merged PR [#11](https://github.com/kenshanta/sh-url-t/pull/11) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. 💪 Opened PR [#11](https://github.com/kenshanta/sh-url-t/pull/11) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. 🗣 Commented on [#1051](https://github.com/codecrafters-io/build-your-own-x/issues/1051#issuecomment-2181664769) in [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+2. 🎉 Merged PR [#12](https://github.com/kenshanta/sh-url-t/pull/12) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 💪 Opened PR [#12](https://github.com/kenshanta/sh-url-t/pull/12) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 🎉 Merged PR [#11](https://github.com/kenshanta/sh-url-t/pull/11) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
    <!--END_SECTION:activity-->
    </details>
 
