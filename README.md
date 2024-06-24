@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/kenshanta/sh-url-t/pull/13) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. 💪 Opened PR [#13](https://github.com/kenshanta/sh-url-t/pull/13) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. 🔒 Closed issue [#30](https://github.com/kenshanta/menu-react/issues/30) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. 🗣 Commented on [#30](https://github.com/kenshanta/menu-react/issues/30#issuecomment-2186418296) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+1. 🎉 Merged PR [#14](https://github.com/kenshanta/miniature-launchpad/pull/14) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+2. 💪 Opened PR [#14](https://github.com/kenshanta/miniature-launchpad/pull/14) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+3. 🎉 Merged PR [#13](https://github.com/kenshanta/sh-url-t/pull/13) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 💪 Opened PR [#13](https://github.com/kenshanta/sh-url-t/pull/13) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
    <!--END_SECTION:activity-->
    </details>
 
