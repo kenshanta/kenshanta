@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#30](https://github.com/kenshanta/menu-react/issues/30) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-2. 🗣 Commented on [#30](https://github.com/kenshanta/menu-react/issues/30#issuecomment-2186418296) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-3. 🎉 Merged PR [#33](https://github.com/kenshanta/menu-react/pull/33) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. 🗣 Commented on [#975](https://github.com/codecrafters-io/build-your-own-x/issues/975#issuecomment-2183272354) in [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+1. 🎉 Merged PR [#13](https://github.com/kenshanta/sh-url-t/pull/13) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. 💪 Opened PR [#13](https://github.com/kenshanta/sh-url-t/pull/13) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 🔒 Closed issue [#30](https://github.com/kenshanta/menu-react/issues/30) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+4. 🗣 Commented on [#30](https://github.com/kenshanta/menu-react/issues/30#issuecomment-2186418296) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
    <!--END_SECTION:activity-->
    </details>
 
