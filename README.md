@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/kenshanta/cli-tool/pull/1) in [kenshanta/cli-tool](https://github.com/kenshanta/cli-tool)
-2. 💪 Opened PR [#1](https://github.com/kenshanta/cli-tool/pull/1) in [kenshanta/cli-tool](https://github.com/kenshanta/cli-tool)
-3. 🎉 Merged PR [#14](https://github.com/kenshanta/miniature-launchpad/pull/14) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
-4. 💪 Opened PR [#14](https://github.com/kenshanta/miniature-launchpad/pull/14) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+1. 🎉 Merged PR [#2](https://github.com/kenshanta/cli-tool/pull/2) in [kenshanta/cli-tool](https://github.com/kenshanta/cli-tool)
+2. 💪 Opened PR [#2](https://github.com/kenshanta/cli-tool/pull/2) in [kenshanta/cli-tool](https://github.com/kenshanta/cli-tool)
+3. 🎉 Merged PR [#1](https://github.com/kenshanta/cli-tool/pull/1) in [kenshanta/cli-tool](https://github.com/kenshanta/cli-tool)
+4. 💪 Opened PR [#1](https://github.com/kenshanta/cli-tool/pull/1) in [kenshanta/cli-tool](https://github.com/kenshanta/cli-tool)
    <!--END_SECTION:activity-->
    </details>
 
