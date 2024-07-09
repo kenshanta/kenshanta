@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/kenshanta/sh-url-t/pull/14) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. 💪 Opened PR [#14](https://github.com/kenshanta/sh-url-t/pull/14) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. 🎉 Merged PR [#15](https://github.com/kenshanta/miniature-launchpad/pull/15) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
-4. 💪 Opened PR [#15](https://github.com/kenshanta/miniature-launchpad/pull/15) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+1. 🎉 Merged PR [#15](https://github.com/kenshanta/sh-url-t/pull/15) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. 💪 Opened PR [#15](https://github.com/kenshanta/sh-url-t/pull/15) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 🎉 Merged PR [#14](https://github.com/kenshanta/sh-url-t/pull/14) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 💪 Opened PR [#14](https://github.com/kenshanta/sh-url-t/pull/14) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
    <!--END_SECTION:activity-->
    </details>
 
