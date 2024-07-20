@@ -50,10 +50,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#36](https://github.com/kenshanta/menu-react/pull/36) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-2. 🎉 Merged PR [#35](https://github.com/kenshanta/menu-react/pull/35) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-3. 🎉 Merged PR [#34](https://github.com/kenshanta/menu-react/pull/34) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. 💪 Opened PR [#34](https://github.com/kenshanta/menu-react/pull/34) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+1. 🗣 Commented on [#86666](https://github.com/firstcontributions/first-contributions/pull/86666#issuecomment-2241306683) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🎉 Merged PR [#36](https://github.com/kenshanta/menu-react/pull/36) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+3. 🎉 Merged PR [#35](https://github.com/kenshanta/menu-react/pull/35) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+4. 🎉 Merged PR [#34](https://github.com/kenshanta/menu-react/pull/34) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
    <!--END_SECTION:activity-->
    </details>
 
