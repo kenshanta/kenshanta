@@ -1,9 +1,3 @@
-<div>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Franklin&color=58a6ff&weight=400&size=17&background=7DCAFF00&duration=1299&multiline=true&center=false&repeat=false&height=135&width=735&lines=Life+is+like+going+the+wrong+way+on+a+moving+sidewalk,;walk...+and+you+stay+put.;In+order+to+get+ahead;You+have+to+HUSTLE!+🏃🏽‍➡️+🏃🏽‍➡️+🏃🏽‍➡️;;-+Casey+Niestat+-)](https://youtu.be/L9VBpbnXhWk?si=8ObrE3ORQ5O7GXPs)
-
-</div>
-
 <details>
 <summary><h2>🧰 Tech Stack:</h2></summary>
 <div>
