@@ -44,10 +44,10 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#22](https://github.com/kenshanta/sh-url-t/issues/22) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. 🎉 Merged PR [#21](https://github.com/kenshanta/sh-url-t/pull/21) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. 💪 Opened PR [#21](https://github.com/kenshanta/sh-url-t/pull/21) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. 🗣 Commented on [#20](https://github.com/kenshanta/sh-url-t/issues/20#issuecomment-2303957258) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. 🗣 Commented on [#23](https://github.com/kenshanta/sh-url-t/pull/23#issuecomment-2305569429) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. ❌ Closed PR [#23](https://github.com/kenshanta/sh-url-t/pull/23) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. ❗ Opened issue [#22](https://github.com/kenshanta/sh-url-t/issues/22) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 🎉 Merged PR [#21](https://github.com/kenshanta/sh-url-t/pull/21) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
    <!--END_SECTION:activity-->
    </details>
 
