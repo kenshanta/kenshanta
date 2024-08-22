@@ -44,10 +44,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20](https://github.com/kenshanta/sh-url-t/issues/20#issuecomment-2303957258) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. 💪 Opened PR [#6729](https://github.com/kamranahmedse/developer-roadmap/pull/6729) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#83028](https://github.com/firstcontributions/first-contributions/issues/83028#issuecomment-2299009982) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. ❗ Opened issue [#20](https://github.com/kenshanta/sh-url-t/issues/20) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. ❗ Opened issue [#22](https://github.com/kenshanta/sh-url-t/issues/22) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. 🎉 Merged PR [#21](https://github.com/kenshanta/sh-url-t/pull/21) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 💪 Opened PR [#21](https://github.com/kenshanta/sh-url-t/pull/21) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 🗣 Commented on [#20](https://github.com/kenshanta/sh-url-t/issues/20#issuecomment-2303957258) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
    <!--END_SECTION:activity-->
    </details>
 
