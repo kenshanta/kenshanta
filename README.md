@@ -49,33 +49,26 @@
    </details>
 
 <details> 
-  <summary><h2>💄 Projects That Would Look Sexier With Stars & Contributions:</h2></summary>
+  <summary><h2>💄 Projects That Would Look Sexier With Stars & Contributions:</summary>
   * <i>Check the TODO section in the README.md for the selected project(s)</i>
       <h3>
         <a href="https://github.com/kenshanta/contactz?tab=readme-ov-file#-todo">
           👤 Contactz
-        </a>
       </h3>
       <li>
           A "startup" specializing in providing robust - dashboard like - contacts list. Project Built with ReactJs & Bootstrap
-      </li> 
 	    <h3>
 		    <a href="https://github.com/kenshanta/sh-url-t">
 			    🤏🏼 sh-url-t
-		    </a>
 	    </h3>
-	<li>
-  A Node.js url shortner previewed as table/dashboard like structured project built with express.js & PostgreSQL
-  <li>
+	  <li>
+      A Node.js url shortner previewed as table/dashboard like structured project built with express.js & PostgreSQL
   <h3>
 		<a href="https://github.com/kenshanta/miniature-launchpad">
 			🚀 Miniature Launchpad
-		</a>
 	</h3>
 	<li>
-  Turbo-charge your web projects with this sleek Turborepo template, featuring Next.js, TailwindCSS, and shadcn for a streamlined development experience!
-  <li>
-
+    Turbo-charge your web projects with this sleek Turborepo template, featuring Next.js, TailwindCSS, and shadcn for a streamlined development experience!
 </details>
 
 ### Just for my ego:
