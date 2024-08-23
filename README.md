@@ -44,10 +44,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23](https://github.com/kenshanta/sh-url-t/pull/23#issuecomment-2305569429) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. ❌ Closed PR [#23](https://github.com/kenshanta/sh-url-t/pull/23) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. ❗ Opened issue [#22](https://github.com/kenshanta/sh-url-t/issues/22) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. 🎉 Merged PR [#21](https://github.com/kenshanta/sh-url-t/pull/21) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. ❗ Opened issue [#6762](https://github.com/kamranahmedse/developer-roadmap/issues/6762) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 💪 Opened PR [#6761](https://github.com/kamranahmedse/developer-roadmap/pull/6761) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. 💪 Opened PR [#6760](https://github.com/kamranahmedse/developer-roadmap/pull/6760) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 💪 Opened PR [#6759](https://github.com/kamranahmedse/developer-roadmap/pull/6759) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
    <!--END_SECTION:activity-->
    </details>
 
