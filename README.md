@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#391](https://github.com/joeyespo/grip/issues/391#issuecomment-2307023734) in [joeyespo/grip](https://github.com/joeyespo/grip)
-2. 🗣 Commented on [#6761](https://github.com/kamranahmedse/developer-roadmap/pull/6761#issuecomment-2306941626) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#6762](https://github.com/kamranahmedse/developer-roadmap/issues/6762#issuecomment-2306939426) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. ❗ Opened issue [#6762](https://github.com/kamranahmedse/developer-roadmap/issues/6762) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. ❗ Opened issue [#3](https://github.com/kenshanta/contactz/issues/3) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
+2. ❗ Opened issue [#2](https://github.com/kenshanta/contactz/issues/2) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
+3. 🗣 Commented on [#391](https://github.com/joeyespo/grip/issues/391#issuecomment-2307023734) in [joeyespo/grip](https://github.com/joeyespo/grip)
+4. 🗣 Commented on [#6761](https://github.com/kamranahmedse/developer-roadmap/pull/6761#issuecomment-2306941626) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
    </details>
 
