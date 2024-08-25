@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6786](https://github.com/kamranahmedse/developer-roadmap/pull/6786) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 💪 Opened PR [#6785](https://github.com/kamranahmedse/developer-roadmap/pull/6785) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 💪 Opened PR [#6784](https://github.com/kamranahmedse/developer-roadmap/pull/6784) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 💪 Opened PR [#6783](https://github.com/kamranahmedse/developer-roadmap/pull/6783) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 🎉 Merged PR [#16](https://github.com/kenshanta/miniature-launchpad/pull/16) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+2. ❗ Opened issue [#24](https://github.com/kenshanta/sh-url-t/issues/24) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 💪 Opened PR [#6786](https://github.com/kamranahmedse/developer-roadmap/pull/6786) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 💪 Opened PR [#6785](https://github.com/kamranahmedse/developer-roadmap/pull/6785) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
    </details>
 
