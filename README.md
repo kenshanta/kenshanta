@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20](https://github.com/kenshanta/sh-url-t/issues/20#issuecomment-2309822780) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. 🔒 Closed issue [#20](https://github.com/kenshanta/sh-url-t/issues/20) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. ❗ Opened issue [#4](https://github.com/kenshanta/cli-tool/issues/4) in [kenshanta/cli-tool](https://github.com/kenshanta/cli-tool)
-4. 🎉 Merged PR [#16](https://github.com/kenshanta/miniature-launchpad/pull/16) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+1. 🗣 Commented on [#22](https://github.com/kenshanta/sh-url-t/issues/22#issuecomment-2310236197) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. 🔒 Closed issue [#22](https://github.com/kenshanta/sh-url-t/issues/22) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 🎉 Merged PR [#25](https://github.com/kenshanta/sh-url-t/pull/25) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 💪 Opened PR [#25](https://github.com/kenshanta/sh-url-t/pull/25) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
       <!--END_SECTION:activity-->
    </details>
 
