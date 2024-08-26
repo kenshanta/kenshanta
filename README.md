@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#22](https://github.com/kenshanta/sh-url-t/issues/22#issuecomment-2310236197) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. 🔒 Closed issue [#22](https://github.com/kenshanta/sh-url-t/issues/22) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. 🎉 Merged PR [#25](https://github.com/kenshanta/sh-url-t/pull/25) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. 💪 Opened PR [#25](https://github.com/kenshanta/sh-url-t/pull/25) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. ❗ Opened issue [#12](https://github.com/kenshanta/dynamic-react-graph-app/issues/12) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+2. 🗣 Commented on [#22](https://github.com/kenshanta/sh-url-t/issues/22#issuecomment-2310236197) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 🔒 Closed issue [#22](https://github.com/kenshanta/sh-url-t/issues/22) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 🎉 Merged PR [#25](https://github.com/kenshanta/sh-url-t/pull/25) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
       <!--END_SECTION:activity-->
    </details>
 
