@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6840](https://github.com/kamranahmedse/developer-roadmap/issues/6840#issuecomment-2315051058) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#6854](https://github.com/kamranahmedse/developer-roadmap/issues/6854#issuecomment-2315037748) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. ❗ Opened issue [#39](https://github.com/kenshanta/menu-react/issues/39) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. ❗ Opened issue [#38](https://github.com/kenshanta/menu-react/issues/38) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+1. ❗ Opened issue [#6857](https://github.com/kamranahmedse/developer-roadmap/issues/6857) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🗣 Commented on [#6840](https://github.com/kamranahmedse/developer-roadmap/issues/6840#issuecomment-2315051058) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. 🗣 Commented on [#6854](https://github.com/kamranahmedse/developer-roadmap/issues/6854#issuecomment-2315037748) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. ❗ Opened issue [#39](https://github.com/kenshanta/menu-react/issues/39) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
       <!--END_SECTION:activity-->
    </details>
 
