@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/kenshanta/sleek-company-portfolio/pull/8) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 💪 Opened PR [#8](https://github.com/kenshanta/sleek-company-portfolio/pull/8) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-3. ❗ Opened issue [#7](https://github.com/kenshanta/sleek-company-portfolio/issues/7) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-4. ❗ Opened issue [#6](https://github.com/kenshanta/sleek-company-portfolio/issues/6) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+1. 🗣 Commented on [#13364](https://github.com/facebook/create-react-app/issues/13364#issuecomment-2317856737) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+2. 🗣 Commented on [#9](https://github.com/kenshanta/sleek-company-portfolio/issues/9#issuecomment-2317791634) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+3. ❗ Opened issue [#9](https://github.com/kenshanta/sleek-company-portfolio/issues/9) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. 🎉 Merged PR [#8](https://github.com/kenshanta/sleek-company-portfolio/pull/8) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
       <!--END_SECTION:activity-->
    </details>
 
