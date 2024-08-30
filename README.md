@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/kenshanta/sleek-company-portfolio/pull/13) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 💪 Opened PR [#13](https://github.com/kenshanta/sleek-company-portfolio/pull/13) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-3. 🗣 Commented on [#24](https://github.com/kenshanta/sh-url-t/issues/24#issuecomment-2321717557) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. 🔒 Closed issue [#24](https://github.com/kenshanta/sh-url-t/issues/24) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. 🗣 Commented on [#82271](https://github.com/firstcontributions/first-contributions/issues/82271#issuecomment-2322106360) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🗣 Commented on [#85347](https://github.com/firstcontributions/first-contributions/issues/85347#issuecomment-2322104331) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 🗣 Commented on [#85352](https://github.com/firstcontributions/first-contributions/issues/85352#issuecomment-2322103723) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. 🗣 Commented on [#84402](https://github.com/firstcontributions/first-contributions/issues/84402#issuecomment-2322101425) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
       <!--END_SECTION:activity-->
    </details>
 
