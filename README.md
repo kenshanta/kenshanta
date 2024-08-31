@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/kenshanta/sleek-company-portfolio/pull/14) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 💪 Opened PR [#14](https://github.com/kenshanta/sleek-company-portfolio/pull/14) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-3. ❗ Opened issue [#27](https://github.com/kenshanta/sh-url-t/issues/27) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. ❗ Opened issue [#98](https://github.com/antonkomarev/github-profile-views-counter/issues/98) in [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+1. 🎉 Merged PR [#15](https://github.com/kenshanta/sleek-company-portfolio/pull/15) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+2. 💪 Opened PR [#15](https://github.com/kenshanta/sleek-company-portfolio/pull/15) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+3. 🎉 Merged PR [#14](https://github.com/kenshanta/sleek-company-portfolio/pull/14) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. 💪 Opened PR [#14](https://github.com/kenshanta/sleek-company-portfolio/pull/14) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
       <!--END_SECTION:activity-->
    </details>
 
