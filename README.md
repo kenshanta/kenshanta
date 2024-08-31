@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/kenshanta/sleek-company-portfolio/issues/11#issuecomment-2322929626) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 🔒 Closed issue [#11](https://github.com/kenshanta/sleek-company-portfolio/issues/11) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-3. ❗ Opened issue [#16](https://github.com/kenshanta/sleek-company-portfolio/issues/16) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-4. 🎉 Merged PR [#15](https://github.com/kenshanta/sleek-company-portfolio/pull/15) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+1. 🗣 Commented on [#19](https://github.com/kenshanta/sh-url-t/issues/19#issuecomment-2322940902) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. 🔒 Closed issue [#19](https://github.com/kenshanta/sh-url-t/issues/19) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 🗣 Commented on [#11](https://github.com/kenshanta/sleek-company-portfolio/issues/11#issuecomment-2322929626) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. 🔒 Closed issue [#11](https://github.com/kenshanta/sleek-company-portfolio/issues/11) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
       <!--END_SECTION:activity-->
    </details>
 
