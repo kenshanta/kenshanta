@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#27](https://github.com/kenshanta/sh-url-t/issues/27) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-2. ❗ Opened issue [#98](https://github.com/antonkomarev/github-profile-views-counter/issues/98) in [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-3. 🗣 Commented on [#6882](https://github.com/kamranahmedse/developer-roadmap/issues/6882#issuecomment-2322147549) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#82271](https://github.com/firstcontributions/first-contributions/issues/82271#issuecomment-2322106360) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 🎉 Merged PR [#14](https://github.com/kenshanta/sleek-company-portfolio/pull/14) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+2. 💪 Opened PR [#14](https://github.com/kenshanta/sleek-company-portfolio/pull/14) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+3. ❗ Opened issue [#27](https://github.com/kenshanta/sh-url-t/issues/27) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. ❗ Opened issue [#98](https://github.com/antonkomarev/github-profile-views-counter/issues/98) in [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
       <!--END_SECTION:activity-->
    </details>
 
