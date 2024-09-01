@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#6936](https://github.com/kamranahmedse/developer-roadmap/issues/6936) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#6929](https://github.com/kamranahmedse/developer-roadmap/pull/6929#issuecomment-2323333193) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. ❗ Opened issue [#6934](https://github.com/kamranahmedse/developer-roadmap/issues/6934) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#6931](https://github.com/kamranahmedse/developer-roadmap/pull/6931#issuecomment-2323267133) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 🎉 Merged PR [#2](https://github.com/kenshanta/developer-roadmap/pull/2) in [kenshanta/developer-roadmap](https://github.com/kenshanta/developer-roadmap)
+2. 💪 Opened PR [#2](https://github.com/kenshanta/developer-roadmap/pull/2) in [kenshanta/developer-roadmap](https://github.com/kenshanta/developer-roadmap)
+3. ❗ Opened issue [#6938](https://github.com/kamranahmedse/developer-roadmap/issues/6938) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. ❗ Opened issue [#6936](https://github.com/kamranahmedse/developer-roadmap/issues/6936) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
    </details>
 
