@@ -39,11 +39,13 @@
 
   <h3>⚡ Recent GitHub Activity</h3>
 
+  <!--START_SECTION:activity-->
+
 1. ❗ Opened issue [#1492](https://github.com/lacolaco/contributors-img/issues/1492) in [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
 2. 🎉 Merged PR [#28](https://github.com/kenshanta/sh-url-t/pull/28) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
 3. 💪 Opened PR [#28](https://github.com/kenshanta/sh-url-t/pull/28) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
 4. 🗣 Commented on [#6931](https://github.com/kamranahmedse/developer-roadmap/pull/6931#issuecomment-2324986150) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
+      <!--END_SECTION:activity-->
    </details>
 
 <details> 
