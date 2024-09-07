@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7003](https://github.com/kamranahmedse/developer-roadmap/pull/7003#issuecomment-2334427564) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#7003](https://github.com/kamranahmedse/developer-roadmap/pull/7003#issuecomment-2331759296) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. ❗ Opened issue [#1492](https://github.com/lacolaco/contributors-img/issues/1492) in [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
-4. 🎉 Merged PR [#28](https://github.com/kenshanta/sh-url-t/pull/28) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. 🎉 Merged PR [#29](https://github.com/kenshanta/sh-url-t/pull/29) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+2. 💪 Opened PR [#29](https://github.com/kenshanta/sh-url-t/pull/29) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 🗣 Commented on [#7003](https://github.com/kamranahmedse/developer-roadmap/pull/7003#issuecomment-2334427564) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 🗣 Commented on [#7003](https://github.com/kamranahmedse/developer-roadmap/pull/7003#issuecomment-2331759296) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
    </details>
 
