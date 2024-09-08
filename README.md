@@ -41,10 +41,10 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#7032](https://github.com/kamranahmedse/developer-roadmap/pull/7032) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#7032](https://github.com/kamranahmedse/developer-roadmap/pull/7032#issuecomment-2336489487) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 💪 Opened PR [#7032](https://github.com/kamranahmedse/developer-roadmap/pull/7032) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#7018](https://github.com/kamranahmedse/developer-roadmap/issues/7018#issuecomment-2336488849) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 🗣 Commented on [#7013](https://github.com/kamranahmedse/developer-roadmap/issues/7013#issuecomment-2336748225) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. ❌ Closed PR [#7032](https://github.com/kamranahmedse/developer-roadmap/pull/7032) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. 🗣 Commented on [#7032](https://github.com/kamranahmedse/developer-roadmap/pull/7032#issuecomment-2336489487) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 💪 Opened PR [#7032](https://github.com/kamranahmedse/developer-roadmap/pull/7032) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
    </details>
 
