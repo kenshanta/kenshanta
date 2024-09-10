@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#93887](https://github.com/microsoft/vscode/issues/93887#issuecomment-2340057258) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-3. 🔒 Closed issue [#38](https://github.com/kenshanta/menu-react/issues/38) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. ❗ Opened issue [#13](https://github.com/kenshanta/dynamic-react-graph-app/issues/13) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-5. 🔒 Closed issue [#39](https://github.com/kenshanta/menu-react/issues/39) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+1. 🗣 Commented on [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14#issuecomment-2340760183) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+2. 🗣 Commented on [#93887](https://github.com/microsoft/vscode/issues/93887#issuecomment-2340057258) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+4. 🔒 Closed issue [#38](https://github.com/kenshanta/menu-react/issues/38) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+5. ❗ Opened issue [#13](https://github.com/kenshanta/dynamic-react-graph-app/issues/13) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
       <!--END_SECTION:activity-->
 
    </details>
