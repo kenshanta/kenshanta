@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3969](https://github.com/public-apis/public-apis/issues/3969#issuecomment-2338740286) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 🗣 Commented on [#3887](https://github.com/public-apis/public-apis/issues/3887#issuecomment-2338739375) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-3. 🗣 Commented on [#6877](https://github.com/kamranahmedse/developer-roadmap/issues/6877#issuecomment-2338689841) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#7059](https://github.com/kamranahmedse/developer-roadmap/issues/7059#issuecomment-2338688342) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🗣 Commented on [#7013](https://github.com/kamranahmedse/developer-roadmap/issues/7013#issuecomment-2336748225) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. ❗ Opened issue [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+2. 🔒 Closed issue [#38](https://github.com/kenshanta/menu-react/issues/38) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+3. ❗ Opened issue [#13](https://github.com/kenshanta/dynamic-react-graph-app/issues/13) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+4. 🔒 Closed issue [#39](https://github.com/kenshanta/menu-react/issues/39) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+5. 🗣 Commented on [#3969](https://github.com/public-apis/public-apis/issues/3969#issuecomment-2338740286) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
       <!--END_SECTION:activity-->
 
    </details>
