@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#15](https://github.com/kenshanta/dynamic-react-graph-app/issues/15) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-2. 🎉 Merged PR [#17](https://github.com/kenshanta/sleek-company-portfolio/pull/17) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-3. 💪 Opened PR [#17](https://github.com/kenshanta/sleek-company-portfolio/pull/17) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-4. 🗣 Commented on [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14#issuecomment-2340760183) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-5. 🗣 Commented on [#93887](https://github.com/microsoft/vscode/issues/93887#issuecomment-2340057258) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#7091](https://github.com/kamranahmedse/developer-roadmap/issues/7091) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. ❗ Opened issue [#7090](https://github.com/kamranahmedse/developer-roadmap/issues/7090) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. ❗ Opened issue [#15](https://github.com/kenshanta/dynamic-react-graph-app/issues/15) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+4. 🎉 Merged PR [#17](https://github.com/kenshanta/sleek-company-portfolio/pull/17) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+5. 💪 Opened PR [#17](https://github.com/kenshanta/sleek-company-portfolio/pull/17) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
       <!--END_SECTION:activity-->
 
    </details>
