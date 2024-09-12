@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14#issuecomment-2340760183) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-2. 🗣 Commented on [#93887](https://github.com/microsoft/vscode/issues/93887#issuecomment-2340057258) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-4. 🔒 Closed issue [#38](https://github.com/kenshanta/menu-react/issues/38) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-5. ❗ Opened issue [#13](https://github.com/kenshanta/dynamic-react-graph-app/issues/13) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+1. 🎉 Merged PR [#17](https://github.com/kenshanta/sleek-company-portfolio/pull/17) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+2. 💪 Opened PR [#17](https://github.com/kenshanta/sleek-company-portfolio/pull/17) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+3. 🗣 Commented on [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14#issuecomment-2340760183) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+4. 🗣 Commented on [#93887](https://github.com/microsoft/vscode/issues/93887#issuecomment-2340057258) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗ Opened issue [#14](https://github.com/kenshanta/dynamic-react-graph-app/issues/14) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
       <!--END_SECTION:activity-->
 
    </details>
