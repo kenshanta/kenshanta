@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#42](https://github.com/kenshanta/menu-react/pull/42) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-2. 🎉 Merged PR [#41](https://github.com/kenshanta/menu-react/pull/41) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-3. 🎉 Merged PR [#40](https://github.com/kenshanta/menu-react/pull/40) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. ❗ Opened issue [#7091](https://github.com/kamranahmedse/developer-roadmap/issues/7091) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. ❗ Opened issue [#7090](https://github.com/kamranahmedse/developer-roadmap/issues/7090) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 💪 Opened PR [#4826](https://github.com/shadcn-ui/ui/pull/4826) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🎉 Merged PR [#42](https://github.com/kenshanta/menu-react/pull/42) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+3. 🎉 Merged PR [#41](https://github.com/kenshanta/menu-react/pull/41) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+4. 🎉 Merged PR [#40](https://github.com/kenshanta/menu-react/pull/40) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+5. ❗ Opened issue [#7091](https://github.com/kamranahmedse/developer-roadmap/issues/7091) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
 
    </details>
