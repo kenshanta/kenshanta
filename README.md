@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4829](https://github.com/shadcn-ui/ui/issues/4829#issuecomment-2349119445) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 💪 Opened PR [#4826](https://github.com/shadcn-ui/ui/pull/4826) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🎉 Merged PR [#42](https://github.com/kenshanta/menu-react/pull/42) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. 🎉 Merged PR [#41](https://github.com/kenshanta/menu-react/pull/41) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-5. 🎉 Merged PR [#40](https://github.com/kenshanta/menu-react/pull/40) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+1. 🗣 Commented on [#4783](https://github.com/shadcn-ui/ui/issues/4783#issuecomment-2349135437) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#4829](https://github.com/shadcn-ui/ui/issues/4829#issuecomment-2349119445) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. 💪 Opened PR [#4826](https://github.com/shadcn-ui/ui/pull/4826) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🎉 Merged PR [#42](https://github.com/kenshanta/menu-react/pull/42) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+5. 🎉 Merged PR [#41](https://github.com/kenshanta/menu-react/pull/41) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
       <!--END_SECTION:activity-->
 
    </details>
