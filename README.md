@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#683](https://github.com/microsoft/vscode-docs/issues/683#issuecomment-2353241321) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-2. 🗣 Commented on [#7092](https://github.com/kamranahmedse/developer-roadmap/issues/7092#issuecomment-2351448142) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#6743](https://github.com/kamranahmedse/developer-roadmap/issues/6743#issuecomment-2350916254) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#4783](https://github.com/shadcn-ui/ui/issues/4783#issuecomment-2349135437) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🗣 Commented on [#4829](https://github.com/shadcn-ui/ui/issues/4829#issuecomment-2349119445) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 🗣 Commented on [#7025](https://github.com/microsoft/vscode-docs/issues/7025#issuecomment-2353269777) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+2. 🗣 Commented on [#5336](https://github.com/microsoft/vscode-docs/pull/5336#issuecomment-2353262227) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+3. 🗣 Commented on [#683](https://github.com/microsoft/vscode-docs/issues/683#issuecomment-2353241321) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+4. 🗣 Commented on [#7092](https://github.com/kamranahmedse/developer-roadmap/issues/7092#issuecomment-2351448142) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 🗣 Commented on [#6743](https://github.com/kamranahmedse/developer-roadmap/issues/6743#issuecomment-2350916254) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
 
    </details>
