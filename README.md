@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7025](https://github.com/microsoft/vscode-docs/issues/7025#issuecomment-2353269777) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-2. 🗣 Commented on [#5336](https://github.com/microsoft/vscode-docs/pull/5336#issuecomment-2353262227) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-3. 🗣 Commented on [#683](https://github.com/microsoft/vscode-docs/issues/683#issuecomment-2353241321) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-4. 🗣 Commented on [#7092](https://github.com/kamranahmedse/developer-roadmap/issues/7092#issuecomment-2351448142) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🗣 Commented on [#6743](https://github.com/kamranahmedse/developer-roadmap/issues/6743#issuecomment-2350916254) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 💪 Opened PR [#43](https://github.com/kenshanta/menu-react/pull/43) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+2. 🗣 Commented on [#27](https://github.com/kenshanta/sh-url-t/issues/27#issuecomment-2356608041) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+3. 💪 Opened PR [#30](https://github.com/kenshanta/sh-url-t/pull/30) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+4. 🗣 Commented on [#7025](https://github.com/microsoft/vscode-docs/issues/7025#issuecomment-2353269777) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+5. 🗣 Commented on [#5336](https://github.com/microsoft/vscode-docs/pull/5336#issuecomment-2353262227) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
       <!--END_SECTION:activity-->
 
    </details>
