@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#43](https://github.com/kenshanta/menu-react/pull/43) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-2. 🗣 Commented on [#27](https://github.com/kenshanta/sh-url-t/issues/27#issuecomment-2356608041) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-3. 💪 Opened PR [#30](https://github.com/kenshanta/sh-url-t/pull/30) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-4. 🗣 Commented on [#7025](https://github.com/microsoft/vscode-docs/issues/7025#issuecomment-2353269777) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-5. 🗣 Commented on [#5336](https://github.com/microsoft/vscode-docs/pull/5336#issuecomment-2353262227) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+1. 💪 Opened PR [#18](https://github.com/kenshanta/sleek-company-portfolio/pull/18) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+2. 💪 Opened PR [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+3. 💪 Opened PR [#43](https://github.com/kenshanta/menu-react/pull/43) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+4. 🗣 Commented on [#27](https://github.com/kenshanta/sh-url-t/issues/27#issuecomment-2356608041) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+5. 💪 Opened PR [#30](https://github.com/kenshanta/sh-url-t/pull/30) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
       <!--END_SECTION:activity-->
 
    </details>
