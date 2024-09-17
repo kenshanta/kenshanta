@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](https://github.com/kenshanta/sleek-company-portfolio/pull/18) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 💪 Opened PR [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-3. 💪 Opened PR [#43](https://github.com/kenshanta/menu-react/pull/43) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-4. 🗣 Commented on [#27](https://github.com/kenshanta/sh-url-t/issues/27#issuecomment-2356608041) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
-5. 💪 Opened PR [#30](https://github.com/kenshanta/sh-url-t/pull/30) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. 🎉 Merged PR [#44](https://github.com/kenshanta/menu-react/pull/44) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+2. 💪 Opened PR [#44](https://github.com/kenshanta/menu-react/pull/44) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+3. 🎉 Merged PR [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+4. 🗣 Commented on [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16#issuecomment-2356783307) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+5. 🔒 Closed issue [#27](https://github.com/kenshanta/sh-url-t/issues/27) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
       <!--END_SECTION:activity-->
 
    </details>
