@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#44](https://github.com/kenshanta/menu-react/pull/44) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-2. 💪 Opened PR [#44](https://github.com/kenshanta/menu-react/pull/44) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
-3. 🎉 Merged PR [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-4. 🗣 Commented on [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16#issuecomment-2356783307) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-5. 🔒 Closed issue [#27](https://github.com/kenshanta/sh-url-t/issues/27) in [kenshanta/sh-url-t](https://github.com/kenshanta/sh-url-t)
+1. 🎉 Merged PR [#1](https://github.com/kenshanta/nextjs-graph/pull/1) in [kenshanta/nextjs-graph](https://github.com/kenshanta/nextjs-graph)
+2. 🎉 Merged PR [#44](https://github.com/kenshanta/menu-react/pull/44) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+3. 💪 Opened PR [#44](https://github.com/kenshanta/menu-react/pull/44) in [kenshanta/menu-react](https://github.com/kenshanta/menu-react)
+4. 🎉 Merged PR [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+5. 🗣 Commented on [#16](https://github.com/kenshanta/dynamic-react-graph-app/pull/16#issuecomment-2356783307) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
       <!--END_SECTION:activity-->
 
    </details>
