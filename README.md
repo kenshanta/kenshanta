@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/kenshanta/sleek-company-portfolio/pull/18) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 🎉 Merged PR [#17](https://github.com/kenshanta/miniature-launchpad/pull/17) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
-3. 🎉 Merged PR [#20](https://github.com/kenshanta/sleek-company-portfolio/pull/20) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-4. 💪 Opened PR [#20](https://github.com/kenshanta/sleek-company-portfolio/pull/20) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-5. 🎉 Merged PR [#19](https://github.com/kenshanta/sleek-company-portfolio/pull/19) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+1. 🔒 Closed issue [#84022](https://github.com/firstcontributions/first-contributions/issues/84022) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🔒 Closed issue [#84022](https://github.com/firstcontributions/first-contributions/issues/84022) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 🎉 Merged PR [#18](https://github.com/kenshanta/sleek-company-portfolio/pull/18) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. 🎉 Merged PR [#17](https://github.com/kenshanta/miniature-launchpad/pull/17) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+5. 🎉 Merged PR [#20](https://github.com/kenshanta/sleek-company-portfolio/pull/20) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
       <!--END_SECTION:activity-->
 
    </details>
