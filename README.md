@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7166](https://github.com/kamranahmedse/developer-roadmap/issues/7166#issuecomment-2360253445) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🔒 Closed issue [#84022](https://github.com/firstcontributions/first-contributions/issues/84022) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. 🔒 Closed issue [#84022](https://github.com/firstcontributions/first-contributions/issues/84022) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 🎉 Merged PR [#18](https://github.com/kenshanta/sleek-company-portfolio/pull/18) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-5. 🎉 Merged PR [#17](https://github.com/kenshanta/miniature-launchpad/pull/17) in [kenshanta/miniature-launchpad](https://github.com/kenshanta/miniature-launchpad)
+1. 🗣 Commented on [#7162](https://github.com/kamranahmedse/developer-roadmap/issues/7162#issuecomment-2360315726) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🗣 Commented on [#7165](https://github.com/kamranahmedse/developer-roadmap/issues/7165#issuecomment-2360281804) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. 🗣 Commented on [#7166](https://github.com/kamranahmedse/developer-roadmap/issues/7166#issuecomment-2360253445) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 🔒 Closed issue [#84022](https://github.com/firstcontributions/first-contributions/issues/84022) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 🔒 Closed issue [#84022](https://github.com/firstcontributions/first-contributions/issues/84022) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
       <!--END_SECTION:activity-->
 
    </details>
