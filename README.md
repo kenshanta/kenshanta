@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7197](https://github.com/kamranahmedse/developer-roadmap/pull/7197#issuecomment-2365664742) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#7189](https://github.com/kamranahmedse/developer-roadmap/issues/7189#issuecomment-2365648221) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. ❗ Opened issue [#7203](https://github.com/kamranahmedse/developer-roadmap/issues/7203) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🎉 Merged PR [#21](https://github.com/kenshanta/sleek-company-portfolio/pull/21) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-5. 💪 Opened PR [#21](https://github.com/kenshanta/sleek-company-portfolio/pull/21) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+1. 💪 Opened PR [#1290](https://github.com/npm/documentation/pull/1290) in [npm/documentation](https://github.com/npm/documentation)
+2. 🗣 Commented on [#7197](https://github.com/kamranahmedse/developer-roadmap/pull/7197#issuecomment-2365664742) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. 🗣 Commented on [#7189](https://github.com/kamranahmedse/developer-roadmap/issues/7189#issuecomment-2365648221) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. ❗ Opened issue [#7203](https://github.com/kamranahmedse/developer-roadmap/issues/7203) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 🎉 Merged PR [#21](https://github.com/kenshanta/sleek-company-portfolio/pull/21) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
       <!--END_SECTION:activity-->
 
    </details>
