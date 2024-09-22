@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/kenshanta/sleek-company-portfolio/pull/21) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 💪 Opened PR [#21](https://github.com/kenshanta/sleek-company-portfolio/pull/21) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-3. 💪 Opened PR [#7179](https://github.com/kamranahmedse/developer-roadmap/pull/7179) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#7162](https://github.com/kamranahmedse/developer-roadmap/issues/7162#issuecomment-2360315726) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🗣 Commented on [#7165](https://github.com/kamranahmedse/developer-roadmap/issues/7165#issuecomment-2360281804) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. ❗ Opened issue [#7203](https://github.com/kamranahmedse/developer-roadmap/issues/7203) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🎉 Merged PR [#21](https://github.com/kenshanta/sleek-company-portfolio/pull/21) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+3. 💪 Opened PR [#21](https://github.com/kenshanta/sleek-company-portfolio/pull/21) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. 💪 Opened PR [#7179](https://github.com/kamranahmedse/developer-roadmap/pull/7179) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 🗣 Commented on [#7162](https://github.com/kamranahmedse/developer-roadmap/issues/7162#issuecomment-2360315726) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
 
    </details>
