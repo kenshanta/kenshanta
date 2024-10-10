@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/kenshanta/contactz/pull/7) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
-2. 🎉 Merged PR [#5](https://github.com/kenshanta/contactz/pull/5) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
-3. 🎉 Merged PR [#4](https://github.com/kenshanta/contactz/pull/4) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
-4. 🗣 Commented on [#1111](https://github.com/npm/documentation/pull/1111#issuecomment-2396472159) in [npm/documentation](https://github.com/npm/documentation)
-5. 🗣 Commented on [#1301](https://github.com/npm/documentation/pull/1301#issuecomment-2387958613) in [npm/documentation](https://github.com/npm/documentation)
+1. 🎉 Merged PR [#23](https://github.com/kenshanta/sleek-company-portfolio/pull/23) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+2. 🎉 Merged PR [#22](https://github.com/kenshanta/sleek-company-portfolio/pull/22) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+3. 🎉 Merged PR [#7](https://github.com/kenshanta/contactz/pull/7) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
+4. 🎉 Merged PR [#5](https://github.com/kenshanta/contactz/pull/5) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
+5. 🎉 Merged PR [#4](https://github.com/kenshanta/contactz/pull/4) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
       <!--END_SECTION:activity-->
 
    </details>
