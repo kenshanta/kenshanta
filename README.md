@@ -40,11 +40,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#978](https://github.com/npm/documentation/issues/978#issuecomment-2410837204) in [npm/documentation](https://github.com/npm/documentation)
-2. 🗣 Commented on [#1113](https://github.com/npm/documentation/issues/1113#issuecomment-2410813190) in [npm/documentation](https://github.com/npm/documentation)
-3. 🗣 Commented on [#802](https://github.com/npm/documentation/issues/802#issuecomment-2410805665) in [npm/documentation](https://github.com/npm/documentation)
-4. 🎉 Merged PR [#23](https://github.com/kenshanta/sleek-company-portfolio/pull/23) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-5. 🎉 Merged PR [#22](https://github.com/kenshanta/sleek-company-portfolio/pull/22) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+1. 🗣 Commented on [#1295](https://github.com/npm/documentation/issues/1295#issuecomment-2410867337) in [npm/documentation](https://github.com/npm/documentation)
+2. 💪 Opened PR [#1326](https://github.com/npm/documentation/pull/1326) in [npm/documentation](https://github.com/npm/documentation)
+3. 🗣 Commented on [#978](https://github.com/npm/documentation/issues/978#issuecomment-2410837204) in [npm/documentation](https://github.com/npm/documentation)
+4. 🗣 Commented on [#1113](https://github.com/npm/documentation/issues/1113#issuecomment-2410813190) in [npm/documentation](https://github.com/npm/documentation)
+5. 🗣 Commented on [#802](https://github.com/npm/documentation/issues/802#issuecomment-2410805665) in [npm/documentation](https://github.com/npm/documentation)
       <!--END_SECTION:activity-->
 
    </details>
