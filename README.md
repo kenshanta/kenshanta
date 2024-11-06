@@ -4,11 +4,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1359](https://github.com/npm/documentation/pull/1359) in [npm/documentation](https://github.com/npm/documentation)
-2. ❌ Closed PR [#4826](https://github.com/shadcn-ui/ui/pull/4826) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🗣 Commented on [#1356](https://github.com/npm/documentation/issues/1356#issuecomment-2452955497) in [npm/documentation](https://github.com/npm/documentation)
-4. 🗣 Commented on [#1346](https://github.com/npm/documentation/issues/1346#issuecomment-2444423901) in [npm/documentation](https://github.com/npm/documentation)
-5. 🗣 Commented on [#1349](https://github.com/npm/documentation/pull/1349#issuecomment-2444404102) in [npm/documentation](https://github.com/npm/documentation)
+1. 🔒 Closed issue [#211](https://github.com/tameemsafi/typewriterjs/issues/211) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
+2. 🔒 Closed issue [#5770](https://github.com/flatpak/flatpak/issues/5770) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+3. 🔒 Closed issue [#1492](https://github.com/lacolaco/contributors-img/issues/1492) in [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
+4. 🔒 Closed issue [#12798](https://github.com/zed-industries/zed/issues/12798) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. 💪 Opened PR [#1359](https://github.com/npm/documentation/pull/1359) in [npm/documentation](https://github.com/npm/documentation)
       <!--END_SECTION:activity-->
 
 
