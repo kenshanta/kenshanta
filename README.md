@@ -4,11 +4,11 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#7](https://github.com/kenshanta/next-portfolio/pull/7) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
-2. 🎉 Merged PR [#24](https://github.com/kenshanta/next-portfolio/pull/24) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
-3. 🎉 Merged PR [#23](https://github.com/kenshanta/next-portfolio/pull/23) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
-4. 🎉 Merged PR [#22](https://github.com/kenshanta/next-portfolio/pull/22) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
-5. 🗣 Commented on [#5](https://github.com/kenshanta/next-portfolio/pull/5#issuecomment-2491810752) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
+1. 🎉 Merged PR [#30](https://github.com/kenshanta/next-portfolio/pull/30) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
+2. 🎉 Merged PR [#29](https://github.com/kenshanta/next-portfolio/pull/29) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
+3. 🎉 Merged PR [#27](https://github.com/kenshanta/next-portfolio/pull/27) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
+4. ❌ Closed PR [#5](https://github.com/kenshanta/next-portfolio/pull/5) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
+5. ❌ Closed PR [#28](https://github.com/kenshanta/next-portfolio/pull/28) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
       <!--END_SECTION:activity-->
 
 
