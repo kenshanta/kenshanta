@@ -4,11 +4,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/kenshanta/nextjs-graph/pull/2) in [kenshanta/nextjs-graph](https://github.com/kenshanta/nextjs-graph)
-2. 🔓 Reopened issue [#69](https://github.com/Debian/.github/issues/69) in [Debian/.github](https://github.com/Debian/.github)
-3. 🔒 Closed issue [#69](https://github.com/Debian/.github/issues/69) in [Debian/.github](https://github.com/Debian/.github)
-4. ❗ Opened issue [#69](https://github.com/Debian/.github/issues/69) in [Debian/.github](https://github.com/Debian/.github)
-5. 🔒 Closed issue [#6](https://github.com/kenshanta/contactz/issues/6) in [kenshanta/contactz](https://github.com/kenshanta/contactz)
+1. 🎉 Merged PR [#24](https://github.com/kenshanta/sleek-company-portfolio/pull/24) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+2. 🎉 Merged PR [#32](https://github.com/kenshanta/next-portfolio/pull/32) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/kenshanta/nextjs-graph/pull/2) in [kenshanta/nextjs-graph](https://github.com/kenshanta/nextjs-graph)
+4. 🔓 Reopened issue [#69](https://github.com/Debian/.github/issues/69) in [Debian/.github](https://github.com/Debian/.github)
+5. 🔒 Closed issue [#69](https://github.com/Debian/.github/issues/69) in [Debian/.github](https://github.com/Debian/.github)
       <!--END_SECTION:activity-->
 
 
