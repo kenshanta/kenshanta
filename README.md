@@ -4,11 +4,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#33](https://github.com/kenshanta/next-portfolio/pull/33) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
-2. 💪 Opened PR [#1427](https://github.com/npm/documentation/pull/1427) in [npm/documentation](https://github.com/npm/documentation)
-3. ❌ Closed PR [#2](https://github.com/kenshanta/documentation/pull/2) in [kenshanta/documentation](https://github.com/kenshanta/documentation)
-4. 🗣 Commented on [#1421](https://github.com/npm/documentation/issues/1421#issuecomment-2563570687) in [npm/documentation](https://github.com/npm/documentation)
-5. 🗣 Commented on [#1367](https://github.com/npm/documentation/pull/1367#issuecomment-2563565969) in [npm/documentation](https://github.com/npm/documentation)
+1. 🎉 Merged PR [#4](https://github.com/kenshanta/nextjs-graph/pull/4) in [kenshanta/nextjs-graph](https://github.com/kenshanta/nextjs-graph)
+2. 🎉 Merged PR [#3](https://github.com/kenshanta/nextjs-graph/pull/3) in [kenshanta/nextjs-graph](https://github.com/kenshanta/nextjs-graph)
+3. 🎉 Merged PR [#25](https://github.com/kenshanta/sleek-company-portfolio/pull/25) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. 🎉 Merged PR [#34](https://github.com/kenshanta/next-portfolio/pull/34) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
+5. 🎉 Merged PR [#20](https://github.com/kenshanta/dynamic-react-graph-app/pull/20) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
       <!--END_SECTION:activity-->
 
 
