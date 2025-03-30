@@ -4,11 +4,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#27](https://github.com/kenshanta/sleek-company-portfolio/pull/27) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
-2. 🎉 Merged PR [#23](https://github.com/kenshanta/dynamic-react-graph-app/pull/23) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-3. 🎉 Merged PR [#22](https://github.com/kenshanta/dynamic-react-graph-app/pull/22) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-4. 🎉 Merged PR [#35](https://github.com/kenshanta/next-portfolio/pull/35) in [kenshanta/next-portfolio](https://github.com/kenshanta/next-portfolio)
-5. 🗣 Commented on [#1367](https://github.com/npm/documentation/pull/1367#issuecomment-2708385224) in [npm/documentation](https://github.com/npm/documentation)
+1. 🗣 Commented on [#255](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/pull/255#issuecomment-2764706703) in [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes)
+2. 🗣 Commented on [#252](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/issues/252#issuecomment-2764704024) in [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes)
+3. 🎉 Merged PR [#27](https://github.com/kenshanta/sleek-company-portfolio/pull/27) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
+4. 🎉 Merged PR [#23](https://github.com/kenshanta/dynamic-react-graph-app/pull/23) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+5. 🎉 Merged PR [#22](https://github.com/kenshanta/dynamic-react-graph-app/pull/22) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
       <!--END_SECTION:activity-->
 
 
