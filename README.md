@@ -4,10 +4,10 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#27](https://github.com/kenshanta/dynamic-react-graph-app/pull/27) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
-2. 💪 Opened PR [#352](https://github.com/sudheerj/reactjs-interview-questions/pull/352) in [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-3. 🗣 Commented on [#255](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/pull/255#issuecomment-2764706703) in [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes)
-4. 🗣 Commented on [#252](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/issues/252#issuecomment-2764704024) in [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes)
+1. 🎉 Merged PR [#29](https://github.com/kenshanta/dynamic-react-graph-app/pull/29) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+2. 🎉 Merged PR [#28](https://github.com/kenshanta/dynamic-react-graph-app/pull/28) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+3. 🎉 Merged PR [#27](https://github.com/kenshanta/dynamic-react-graph-app/pull/27) in [kenshanta/dynamic-react-graph-app](https://github.com/kenshanta/dynamic-react-graph-app)
+4. 💪 Opened PR [#352](https://github.com/sudheerj/reactjs-interview-questions/pull/352) in [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
 5. 🎉 Merged PR [#27](https://github.com/kenshanta/sleek-company-portfolio/pull/27) in [kenshanta/sleek-company-portfolio](https://github.com/kenshanta/sleek-company-portfolio)
       <!--END_SECTION:activity-->
 
