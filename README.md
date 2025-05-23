@@ -4,11 +4,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8696](https://github.com/kamranahmedse/developer-roadmap/pull/8696#issuecomment-2902663093) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#8633](https://github.com/kamranahmedse/developer-roadmap/pull/8633#issuecomment-2902658903) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#8694](https://github.com/kamranahmedse/developer-roadmap/pull/8694#issuecomment-2902654568) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#8617](https://github.com/kamranahmedse/developer-roadmap/issues/8617#issuecomment-2902644255) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🗣 Commented on [#1490](https://github.com/npm/documentation/issues/1490#issuecomment-2902276935) in [npm/documentation](https://github.com/npm/documentation)
+1. 🗣 Commented on [#83](https://github.com/sumn2u/learn-javascript/issues/83#issuecomment-2902849504) in [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)
+2. 🗣 Commented on [#32692](https://github.com/owncloud/core/issues/32692#issuecomment-2902845817) in [owncloud/core](https://github.com/owncloud/core)
+3. 🗣 Commented on [#80](https://github.com/sumn2u/learn-javascript/issues/80#issuecomment-2902838461) in [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)
+4. 🗣 Commented on [#1419](https://github.com/themesberg/flowbite-react/issues/1419#issuecomment-2902745089) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+5. 🗣 Commented on [#8696](https://github.com/kamranahmedse/developer-roadmap/pull/8696#issuecomment-2902663093) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
       <!--END_SECTION:activity-->
 
 
